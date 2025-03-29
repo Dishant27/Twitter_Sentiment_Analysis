@@ -29,16 +29,16 @@ This project implements a comprehensive sentiment analysis solution for Twitter 
 
 ```
 Twitter_Sentiment_Analysis/
-├── data/               # Raw and processed data
-├── notebooks/          # Jupyter notebooks for exploration
-├── src/                # Source code
-│   ├── data_collection.py
-│   ├── preprocessing.py
-│   ├── model_training.py
-│   └── sentiment_predictor.py
-├── models/             # Trained machine learning models
-├── requirements.txt    # Project dependencies
-└── README.md           # Project documentation
+├─ data/               # Raw and processed data
+├─ notebooks/          # Jupyter notebooks for exploration
+├─ src/                # Source code
+│   ├─ data_collection.py
+│   ├─ preprocessing.py
+│   ├─ model_training.py
+│   └─ sentiment_predictor.py
+├─ models/             # Trained machine learning models
+├─ requirements.txt    # Project dependencies
+└─ README.md           # Project documentation
 ```
 
 ## 🚀 Getting Started
@@ -122,7 +122,7 @@ python src/sentiment_predictor.py "Your tweet text here"
 - Most common positive/negative words
 - Trends and patterns in tweet sentiments
 
-## 🌐 Real-World Applications
+## 🌎 Real-World Applications
 
 This sentiment analysis framework can be applied to various business and research contexts:
 
@@ -154,7 +154,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## 📝 License
 
 This project is open source. Please check the LICENSE file for details.
 
@@ -165,3 +165,5 @@ Dishant - [GitHub Profile](https://github.com/Dishant27)
 ---
 
 **Note**: Ensure compliance with Twitter's terms of service and data usage policies when collecting and analyzing tweet data.
+
+## 💬 Algorithm Refined
